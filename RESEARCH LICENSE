@@ -38,4 +38,92 @@ The above rights are granted subject to the following conditions:
 ### 1. ATTRIBUTION
 
 Any use of the Work must include proper attribution:
+Based on EFU v5.1 “Diamond” Architecture by István Simor.
+GitHub: https://github.com/x8cqjnbvnm-hub/EFU-System-v5.1-Diamond
+DOI: 10.5281/zenodo.18888082
+
+### 2. SHARE-ALIKE (OPTIONAL BUT ENCOURAGED)
+
+Derivative works are encouraged (but not required) to be shared under the same open license.
+
+### 3. NO WARRANTY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+### 4. ETHICAL USE
+
+The Work shall not be used to:
+- Cause harm to individuals or communities
+- Support systems that violate human rights
+- Greenwash or manipulate sustainability metrics
+- Conceal or obscure biophysical reality
+
+### 5. IRREVOCABILITY
+
+This license is **irrevocable**. Once granted, the rights cannot be withdrawn by the licensor, any institution, or any government.
+
+---
+
+## COMPATIBILITY
+
+This license is compatible with:
+- **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+- **Open Data Commons Attribution License (ODC-By)**
+- **MIT License** (for software components)
+
+---
+
+## FIRE CHIEF PROTOCOL
+
+In cases where the Work is used in ways that violate:
+- **Axiom-0** (Biophysical Homeostasis)
+- **Axiom-2** (Irreversibility and Lock-in)
+- **Axiom-3** (Sovereign Cell)
+
+The **Fire Chief Veto (105.2)** may be invoked for ethical guidance – but this does **not** revoke the license itself.
+
+---
+
+## ACCEPTANCE
+
+By using, copying, modifying, or distributing the Work, you accept and agree to be bound by the terms of this License.
+
+---
+
+## CITATION
+
+If you use this work in research or publications, please cite:
+
+```bibtex
+@misc{efu_v5.1_diamond_2026,
+  author = {Simor, István},
+  title = {EFU v5.1 "Diamond" Architecture: Biophysical Civilizational Audit Framework},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/x8cqjnbvnm-hub/EFU-System-v5.1-Diamond}},
+  doi = {10.5281/zenodo.18888082}
+}
+EFU Open Research License v1.0
+“Knowledge is what lifts us up – but physics is what keeps us grounded.”
+© 2026 István Simor. Licensed under EFU Open Research License v1.0.
+Published: DOI 10.5281/zenodo.18888082
+
+
+---
+
+## 4. COMMIT MESSAGE:
+Add EFU Open Research License v1.0
+
+---
+
+## 5. COMMIT NEW FILE (zöld gomb)
+
+---
+
+## ✅ KÉSZ A MÁSODIK FÁJL!
+
+**Ha feltöltötted, szólj, és adom a következőt (CONTRIBUTING.md)!** 🚀📜
+
+**Vagy kérdés van?** 🔥​​​​​​​​​​​​​​​​
 
