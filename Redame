@@ -1,0 +1,111 @@
+# CONTRIBUTING TO EFU v5.1 "DIAMOND"
+
+Thank you for your interest in contributing to the EFU system! We welcome contributions from researchers, developers, translators, and practitioners.
+
+---
+
+## 🤝 HOW TO CONTRIBUTE
+
+### 1. RESEARCH CONTRIBUTIONS
+
+**What we need:**
+- Empirical validation (test EFU modules with real-world data)
+- Case studies (apply EFU to specific regions, sectors, or crises)
+- Peer review (critique methodology, suggest improvements)
+- Historical backtesting (validate CEWS on past events: Soviet Union, Syria, etc.)
+
+**How to submit:**
+- Fork this repository
+- Add your research to `Research/` folder
+- Submit a Pull Request with description
+
+---
+
+### 2. SOFTWARE CONTRIBUTIONS
+
+**What we need:**
+- API implementation (based on 205.4 spec)
+- Dashboard (implement 900.5.1 Dashboard Specification)
+- Calculators (Python/JavaScript tools for EFU calculations)
+- Data pipelines (automate data collection for pilots)
+
+**How to submit:**
+- Fork this repository
+- Add code to `Tools/` folder
+- Include README with usage instructions
+- Submit Pull Request
+
+---
+
+### 3. TRANSLATIONS
+
+**Current languages:** Hungarian, English
+
+**Needed:** Spanish, French, German, Chinese, Arabic, Portuguese, Russian
+
+**How to submit:**
+- Fork this repository
+- Translate a module (start with 104.60 CEWS or 600.52 PFAS)
+- Add to `Translations/[LANG]/` folder
+- Submit Pull Request
+
+---
+
+### 4. DOCUMENTATION
+
+**What we need:**
+- Improve clarity (simplify complex sections)
+- Add examples (real-world use cases)
+- Fix errors (typos, broken links, outdated info)
+
+**How to submit:**
+- Edit file directly on GitHub (click pencil icon)
+- Submit Pull Request
+
+---
+
+## 📋 CONTRIBUTION GUIDELINES
+
+### CODE OF CONDUCT
+
+- Be respectful and constructive
+- Focus on biophysical honesty (no greenwashing)
+- Cite sources and data transparently
+- Follow Fire Chief ethical principles (105.2)
+
+### QUALITY STANDARDS
+
+- **Research:** Peer-reviewed or clearly marked as exploratory
+- **Code:** Well-documented, tested, follows best practices
+- **Translations:** Accurate, preserve technical terminology
+- **Data:** Openly sourced, reproducible
+
+### ATTRIBUTION
+
+All contributors will be acknowledged in:
+- `CONTRIBUTORS.md` file
+- Relevant module documentation
+- Academic citations (if applicable)
+
+---
+
+## 🔄 REVIEW PROCESS
+
+1. **Submit Pull Request** with clear description
+2. **Community review** (2-7 days)
+3. **Fire Chief review** (István Simor or designated reviewer)
+4. **Merge** or request revisions
+
+---
+
+## ❓ QUESTIONS?
+
+- Open an **Issue** for questions or suggestions
+- Blog: https://simoristvan.wordpress.com
+- DOI: [10.5281/zenodo.18888082](https://doi.org/10.5281/zenodo.18888082)
+
+---
+
+**Thank you for contributing to civilizational metabolic honesty!** 🔥
+
+© 2026 István Simor | EFU Open Research License v1.0
