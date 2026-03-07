@@ -3,7 +3,7 @@
 **Energy Flux Unit – Biophysical Civilizational Audit Framework**
 
 [![License: EFU Open Research](https://img.shields.io/badge/License-EFU%20Open%20Research-blue.svg)](LICENSE.md)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.18888082)
 [![Version](https://img.shields.io/badge/version-5.1%20Diamond-green.svg)](CHANGELOG.md)
 
 ## 🔥 What is EFU?
