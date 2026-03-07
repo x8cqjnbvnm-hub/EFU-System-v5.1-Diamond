@@ -88,3 +88,4 @@ See previous documentation for version history prior to v5.0.
 **Maintained by:** István Simor (Fire Chief)  
 **License:** EFU Open Research License v1.0  
 **Published:** [DOI 10.5281/zenodo.18888082](https://doi.org/10.5281/zenodo.18888082)
+Add changelog with version history
